@@ -1,0 +1,19 @@
+.SANTHU{
+    color:red;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+.WATER{
+    color: seagreen;
+    padding-left: 250px;
+    padding-top: 100px;
+    font-size: 50px;
+}
+.WATER a{
+    text-decoration: none;
+} 
+.order{
+    padding: 50px;
+}
